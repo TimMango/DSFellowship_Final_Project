@@ -34,5 +34,6 @@ Best Model was XGBoost with a slow learning rate and tree depths no less than 10
 ## Results
 Goal for this project was to create a heatmap of waste site location probabilities.  Predictions were good but could be improved.  Best model achieved Accuracy : 0.9580 | Sensitivity 0.6126 | Specificity: 0.3802
 
-## Takeaway:  Investigate known sites that have reported toxic waste release.  Use heatmap to identify unreported locations that are collecting hazardous waste.
+## Takeaway:  
+Investigate known sites that have reported toxic waste release.  Use heatmap to identify unreported locations that are collecting hazardous waste.
 
