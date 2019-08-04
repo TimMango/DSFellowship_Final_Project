@@ -28,7 +28,7 @@ Datasets were merged using FIPs codes
 ## Pre-Processing and Data Cleaning
 Variables with more than 15% missing data were dropped.  Integer data was imputed with mode and numerical data was imputed with mean.  Categorical variables were dummied.  All explanatory variables were standardized before being split into training and testing data.  
 
-## Data Science Model
+## Best Model
 Best Model was XGBoost with a slow learning rate and tree depths no less than 10.
 
 ## Results
