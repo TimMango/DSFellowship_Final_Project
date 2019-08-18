@@ -1,4 +1,12 @@
 # Data Science Fellowship Final Project
+The following list shows the progression of project code:
+
+1) API_Requests
+2) Merging_Data
+3) Primary_Notebook
+4) Prediction_Visualization
+
+This sequence should be noted if there is an interest in reproducing or extending project work.
 
 ## Earth Challenge 2020:
 
